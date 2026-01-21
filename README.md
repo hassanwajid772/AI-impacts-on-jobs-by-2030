@@ -6,6 +6,7 @@ Models Evaluated:Logistic RegressionRandom Forest Classifier (🥇 Best Performe
 ├── ml AI impact job 2030-over_new 1.ipynb   # Experiment: Oversampling
 ├── ml AI impact job 2030-Smote_new 1.ipynb  # Experiment: SMOTE
 └── ml AI impact job 2030-Under_new 1.ipynb  # Experiment: Undersampling
-🚀 Getting StartedClone the repo:Bashgit clone https://github.com/your-username/ai-impact-jobs-2030.git
+
+🚀 Getting StartedClone the repo:Bashgit clone https://github.com/hassanwajid772//ai-impact-jobs-2030.git
 Install Dependencies:Bashpip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 Run Notebooks: Open any of the .ipynb files in Jupyter or Google Colab to view the training process and visualizations.🤝 Contact & CreditsAuthor: Hassan WajidDepartment: Artificial Intelligence and Data ScienceSupervisor: HaffizudinOrganization: Silicon Global TechEmail: hasanwajid49635@gmail.comThis project was developed as part of a comprehensive study into AI-driven job displacement.
